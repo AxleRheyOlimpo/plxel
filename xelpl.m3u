@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABC.us@East",ABC (720p)
 http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-id="ABC.us@BOS", ABC Boston
+https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+#EXTINF:-1 tvg-id="abcsfl", ABC Tallahassee 
+https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
 #EXTINF:-1 tvg-id="KNTV111.us@HD",NBC Bay Area
 https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
