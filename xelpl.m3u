@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABC.us@East",ABC (720p)
 http://41.205.93.154/ABC/index.m3u8
-EXTINF:-1 tvg-id="KNTV111.us@HD",NBC Bay Area
+#EXTINF:-1 tvg-id="KNTV111.us@HD",NBC Bay Area
 https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
